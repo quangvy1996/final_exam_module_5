@@ -1,0 +1,88 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Tiểu thuyết",
+      "description": "Tiểu thuyết lãng mạn"
+    },
+    {
+      "id": "2",
+      "name": "Khoa học",
+      "description": "Khoa học hiện đại"
+    },
+    {
+      "id": "3",
+      "name": "Lịch sử",
+      "description": "Lịch sử tổng qua"
+    },
+    {
+      "id": "4",
+      "name": "Văn học",
+      "description": "Văn học Việt Nam"
+    }
+  ],
+  "books": [
+    {
+      "id": "2",
+      "title": "book number two",
+      "quantity": 100,
+      "categoryId": "2",
+      "importDay": "15/10/2024"
+    },
+    {
+      "id": "3",
+      "title": "book number three",
+      "quantity": 120,
+      "categoryId": "3",
+      "importDay": "15/10/2024"
+    },
+    {
+      "id": "BO-1234",
+      "title": "âdsfasdfasdf",
+      "quantity": 123,
+      "categoryId": "3",
+      "importDay": "27/11/2024",
+      "bookCode": "BO-1234"
+    },
+    {
+      "id": "BO-4444",
+      "title": "Quang Vỹ",
+      "quantity": 14,
+      "categoryId": "3",
+      "importDay": "02/10/2024",
+      "bookCode": "BO-4444"
+    },
+    {
+      "id": "BO-5555",
+      "title": "Hai dòng sông",
+      "quantity": 1,
+      "categoryId": "1",
+      "importDay": "17/07/2024",
+      "bookCode": "BO-5555"
+    },
+    {
+      "id": "BO-7789",
+      "title": "Truyện Kiều",
+      "quantity": 16,
+      "categoryId": "4",
+      "importDay": "17/09/2024",
+      "bookCode": "BO-7789"
+    },
+    {
+      "id": "BO-4311",
+      "title": "Rừng Nauy",
+      "quantity": 11,
+      "categoryId": "2",
+      "importDay": "23/09/2024",
+      "bookCode": "BO-4311"
+    },
+    {
+      "id": "BO-1234",
+      "title": "alo",
+      "quantity": 4,
+      "categoryId": "2",
+      "importDay": "10/10/2024",
+      "bookCode": "BO-1234"
+    }
+  ]
+}
